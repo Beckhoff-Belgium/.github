@@ -16,7 +16,7 @@ The contents of this organization are curated by our local application and suppo
 
 | Project | Description | Language |
 | :--- | :--- | :--- |
-| **TwinCAT3-Git-TwinCAT-Settings** | Best practices XAE environment setup for git in TwinCAT. | `N.A.` |
+| [**TwinCAT3-Git-TwinCAT-Settings**](https://github.com/Beckhoff-Belgium/TwinCAT3-Git-TwinCAT-Settings) | Best practices XAE environment setup for git in TwinCAT. | `N.A.` |
 | **TwinCAT3-PLC-Samples** | A variety of TwinCAT PLC examples | `TwinCAT PLC` |
 | **TwinCAT3-HMI-Samples** | A variety of TwinCAT HMI examples | `TwinCAT HMI` |
 
