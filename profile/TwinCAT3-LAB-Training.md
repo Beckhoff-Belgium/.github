@@ -2,8 +2,8 @@
 
 | Project | Description | Language |
 | :--- | :--- | :--- |
-| [TF2120 HMI database quickstart](https://github.com/Beckhoff-Belgium/TF2120-HMI.database.quickstart) | TF2120 TwinCAT HMI Database server extension quickstart | TwinCAT HMI |
-| [TF2120 HMI database quickstart](https://github.com/Beckhoff-Belgium/TF2120-HMI.database.quickstart) | TF2120 TwinCAT HMI Database server extension quickstart | TwinCAT HMI |
+| [TF7xxx-PLC.sample.template.plc](https://github.com/Beckhoff-Belgium/TF7xxx-PLC.sample.template.plc) | TF7xxx quickstart template | TwinCAT PLC / TwinCAT Vision |
+| [TF7xxx-PLC.exercises.quickstart.plc](https://github.com/Beckhoff-Belgium/TF7xxx-PLC.exercises.quickstart.plc) | TF7xxx TwinCAT Vision quickstart | TwinCAT PLC / TwinCAT Vision |
 
 ## 🤝 Support & Contributions
 
