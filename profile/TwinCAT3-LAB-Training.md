@@ -2,6 +2,8 @@
 
 | Project | Description | Language |
 | :--- | :--- | :--- |
+| [TF2120 HMI database quickstart](https://github.com/Beckhoff-Belgium/TF2120-HMI.database.quickstart) | TF2120 TwinCAT HMI Database server extension quickstart | TwinCAT HMI |
+| [TF2120 HMI database quickstart](https://github.com/Beckhoff-Belgium/TF2120-HMI.database.quickstart) | TF2120 TwinCAT HMI Database server extension quickstart | TwinCAT HMI |
 
 ## 🤝 Support & Contributions
 
