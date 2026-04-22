@@ -2,7 +2,7 @@
 
 | Project | Description | Language |
 | :--- | :--- | :--- |
-| [TF7xxx-PLC.sample.template.plc](https://github.com/Beckhoff-Belgium/TF7xxx-PLC.sample.template.plc) | TF7xxx quickstart template | TwinCAT PLC / TwinCAT Vision |
+| [TF5xxxx-Motion.quickstart.plc](https://github.com/Beckhoff-Belgium/TF5xxxx-Motion.quickstart.plc) | TF5xxx quickstart - Simple PTP movement   |
 
 ## 🤝 Support & Contributions
 
