@@ -1,7 +1,7 @@
 ## 🛠 Featured Repositories
 
-| Project | Description | Language |
-| :--- | :--- | :--- |
+| Topics | Keywords | Name | Description | Creation Date | Last Update |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 
 ## 🤝 Support & Contributions
 
