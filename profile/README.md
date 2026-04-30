@@ -40,6 +40,12 @@ By using these samples, you acknowledge that:
  * It is the user's responsibility to verify and test the code in a non-production environment before implementation.
  * These repositories are not a substitute for the official product documentation or certified training.
 
+## 📖 Official Documentation & Resources
+
+For official product documentation, manuals, and technical references, please visit the [Beckhoff Information System (InfoSys)](https://infosys.beckhoff.com). InfoSys is the authoritative source for all Beckhoff product documentation and should always be your primary reference.
+
+For additional open-source libraries and official samples from Beckhoff headquarters, visit the [Beckhoff GitHub](https://github.com/Beckhoff).
+
 ## 🌐 Connect With Us
 
 [Website](https://www.beckhoff.be) | [LinkedIn](https://www.linkedin.com/company/beckhoff-automation-belgium/) | [Training Overview](https://www.beckhoff.com/nl-be/support/training-offerings/) | [Training Dates](https://www.beckhoff.com/nl-be/support/training-dates/)
