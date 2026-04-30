@@ -2,6 +2,7 @@
 
 | Topics | Keywords | Name | Description | Creation Date | Last Update |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Git | — | [**TwinCAT-Settings**](https://github.com/Beckhoff-Belgium/TwinCAT3-Git-TwinCAT-Settings) | Best practices XAE environment setup for git in TwinCAT | 2025-07-30 | 2026-04-15 |
 
 ## 🤝 Support & Contributions
 
