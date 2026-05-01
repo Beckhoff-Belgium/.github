@@ -2,7 +2,7 @@
 
 | Topics | Keywords | Name | Description | Creation Date | Last Update |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Vision | `tf7000` `tf7xxx` | [**QuickstartTemplate**](https://github.com/Beckhoff-Belgium/Sample-Vision-QuickstartTemplate) | PLC Template for a TcVision | 2024-12-18 | 2024-12-20 |
+| Vision | `tf7000` `tf7xxx` | [**QuickstartTemplate**](https://github.com/Beckhoff-Belgium/Sample-Vision-QuickstartTemplate) | PLC Template for a TcVision | 2024-12-18 | 2026-04-30 |
 
 ## 🤝 Support & Contributions
 

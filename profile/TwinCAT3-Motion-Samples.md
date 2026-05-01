@@ -2,7 +2,7 @@
 
 | Topics | Keywords | Name | Description | Creation Date | Last Update |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| PLC, Motion | `mc2` `tf5xxx` | [**QuickstartMotion**](https://github.com/Beckhoff-Belgium/Sample-PLC_Motion-QuickstartMotion) | A very simple quickstart + sample for TwinCAT Motion (MC2) | 2026-04-22 | 2026-04-22 |
+| PLC, Motion | `mc2` `tf5xxx` | [**QuickstartMotion**](https://github.com/Beckhoff-Belgium/Sample-PLC_Motion-QuickstartMotion) | A very simple quickstart + sample for TwinCAT Motion (MC2) | 2026-04-22 | 2026-04-30 |
 
 ## 🤝 Support & Contributions
 

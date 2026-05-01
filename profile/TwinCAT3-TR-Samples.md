@@ -2,7 +2,7 @@
 
 | Topics | Keywords | Name | Description | Creation Date | Last Update |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Vision | `tf2000` `tf7000` | [**BasicExercises**](https://github.com/Beckhoff-Belgium/TR-Vision-BasicExercises) | _Add description_ | 2025-05-08 | 2025-05-16 |
+| Vision | `tf2000` `tf7000` | [**BasicExercises**](https://github.com/Beckhoff-Belgium/TR-Vision-BasicExercises) | _Add description_ | 2025-05-08 | 2026-04-30 |
 
 ## 🤝 Support & Contributions
 
