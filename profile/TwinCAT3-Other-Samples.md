@@ -2,6 +2,7 @@
 
 | Topics | Keywords | Name | Description | Creation Date | Last Update |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| bsd | — | [**cheatsheet**](https://github.com/Beckhoff-Belgium/Tool-bsd-cheatsheet) | List of common commands for TwinCAT BSD | 2026-05-06 | 2026-04-08 |
 | Git | — | [**TwinCAT-Settings**](https://github.com/Beckhoff-Belgium/TwinCAT3-Git-TwinCAT-Settings) | Best practices XAE environment setup for git in TwinCAT | 2025-07-30 | 2026-04-15 |
 
 ## 🤝 Support & Contributions
