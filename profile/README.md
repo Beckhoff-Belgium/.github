@@ -17,9 +17,9 @@ The contents of this organization are curated by our local application and suppo
 | Project | Description 
 | :--- | :--- |
 | [**TwinCAT3-Git-TwinCAT-Settings**](https://github.com/Beckhoff-Belgium/TwinCAT3-Git-TwinCAT-Settings) | Best practices XAE environment setup for git in TwinCAT. |
-| [**TwinCAT3-PLC-Samples**](/TwinCAT3-PLC-Samples.md) | A variety of TwinCAT PLC examples | 
-| [**TwinCAT3-HMI-Samples**](/TwinCAT3-HMI-Samples.md) | A variety of TwinCAT HMI examples | 
-| [**TwinCAT3-Safety-Samples**](/TwinCAT3-Safety-Samples.md) | A variety of TwinCAT Safety examples | 
+| [**TwinCAT3-PLC-Samples**](./TwinCAT3-PLC-Samples.md) | A variety of TwinCAT PLC examples | 
+| [**TwinCAT3-HMI-Samples**](./TwinCAT3-HMI-Samples.md) | A variety of TwinCAT HMI examples | 
+| [**TwinCAT3-Safety-Samples**](./TwinCAT3-Safety-Samples.md) | A variety of TwinCAT Safety examples | 
 | [**TwinCAT3-Motion-Samples**](/TwinCAT3-Motion-Samples.md) | A variety of TwinCAT Motion examples | 
 | [**TwinCAT3-Vision-Samples**](/TwinCAT3-Vision-Samples.md) | A variety of TwinCAT Vision examples | 
 | [**TwinCAT3-TR-Samples**](/TwinCAT3-TR-Samples.md) | A variety of supporting samples for training sessions | 
