@@ -14,7 +14,7 @@ The contents of this organization are curated by our local application and suppo
 
 ## 🛠 Featured Repositories
 
-| Project | Description 
+| Category | Description 
 | :--- | :--- |
 | [**TwinCAT3-Git-TwinCAT-Settings**](https://github.com/Beckhoff-Belgium/TwinCAT3-Git-TwinCAT-Settings) | Best practices XAE environment setup for git in TwinCAT. |
 | [**TwinCAT3-PLC-Samples**](./TwinCAT3-PLC-Samples.md) | A variety of TwinCAT PLC examples | 
