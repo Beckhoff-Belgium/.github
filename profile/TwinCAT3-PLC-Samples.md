@@ -5,6 +5,7 @@
 | PLC | `bacnet` `building-automation` `dali` `dmx` `eib` `enocean` `knx` `mbus` `modbusrtu` `modbustcp` `smi` `tf6250` `tf6255` | [**BuildingAutomationFieldbusses**](https://github.com/Beckhoff-Belgium/Sample-PLC-BuildingAutomationFieldbusses) | Project with the most common fieldbusses | 2021-06-14 | 2026-04-30 |
 | PLC | `tf6255` | [**ModbusRTUHandler**](https://github.com/Beckhoff-Belgium/Sample-PLC-ModbusRTUHandler) | Queue-based Modbus RTU master handler for TwinCAT 3 | 2026-04-28 | 2026-06-23 |
 | PLC, Motion | `mc2` `tf5xxx` | [**QuickstartMotion**](https://github.com/Beckhoff-Belgium/Sample-PLC_Motion-QuickstartMotion) | A very simple quickstart + sample for TwinCAT Motion (MC2) | 2026-04-22 | 2026-04-30 |
+| PLC, MTP | `mtp` `te8400` | [**DemoProjectMTP**](https://github.com/Beckhoff-Belgium/Sample-PLC_MTP-DemoProjectMTP) | Sample project for MTP | 2026-06-25 | 2026-06-25 |
 
 ## 🤝 Support & Contributions
 
