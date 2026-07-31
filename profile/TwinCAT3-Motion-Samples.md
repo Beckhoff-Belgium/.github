@@ -2,6 +2,7 @@
 
 | Topics | Keywords | Name | Description | Creation Date | Last Update |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| PLC, Motion | — | [**ExternalSetpointGenerator**](https://github.com/Beckhoff-Belgium/Sample-PLC_Motion-ExternalSetpointGenerator) | Example project for an external setpoint generator, follower axis mimics master axis behavior | 2026-07-06 | 2026-07-07 |
 | PLC, Motion | `mc2` `tf5xxx` | [**QuickstartMotion**](https://github.com/Beckhoff-Belgium/Sample-PLC_Motion-QuickstartMotion) | A very simple quickstart + sample for TwinCAT Motion (MC2) | 2026-04-22 | 2026-04-30 |
 
 ## 🤝 Support & Contributions
